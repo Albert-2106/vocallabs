@@ -1,0 +1,244 @@
+{
+  "seed": "openai.com",
+  "companies": [
+    {
+      "name": "OpenAI Competitors: Complete List & Mark",
+      "domain": "distillintelligence.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top OpenAI API Alternatives & Competitor",
+      "domain": "gartner.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "\ud83e\udd84 The top six rivals competing with Open",
+      "domain": "ai-supremacy.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "OpenAI API Alternatives: Top Competitors",
+      "domain": "metacto.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top 12 OpenAI Competitors & Alternatives",
+      "domain": "thebusinessdive.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Gustav Fridell",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/gustavfridell",
+      "domain": "distillintelligence.com",
+      "email_hint": "gustav@distillintelligence.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Christina Hertzler",
+      "role": "VP of Practice",
+      "linkedin": "https://www.linkedin.com/in/christina-hertzler-94b02037a",
+      "domain": "gartner.com",
+      "email_hint": "christina.hertzler@gartner.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Carl Erickson",
+      "role": "Executive Partner",
+      "linkedin": "https://www.linkedin.com/in/carlciso",
+      "domain": "gartner.com",
+      "email_hint": "carl.erickson@gartner.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Michael Spencer",
+      "role": "Founder, Newsletter operator, A.I. Writer ...",
+      "linkedin": "https://tw.linkedin.com/in/michaelkspencer",
+      "domain": "ai-supremacy.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Adam Lui",
+      "role": "Founder/CEO, KudoAI",
+      "linkedin": "https://www.linkedin.com/in/adamlui",
+      "domain": "ai-supremacy.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Chris Fitkin",
+      "role": "CTO",
+      "linkedin": null,
+      "domain": "metacto.com",
+      "email_hint": "chris@metacto.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Aron Kantor",
+      "role": "Founder",
+      "linkedin": null,
+      "domain": "thebusinessdive.com",
+      "email_hint": "aronkantor@thebusinessdive.com",
+      "confidence": 73,
+      "source": "hunter",
+      "industry": "Technology"
+    }
+  ],
+  "resolved": [
+    {
+      "name": "Gustav Fridell",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/gustavfridell",
+      "domain": "distillintelligence.com",
+      "email_hint": "gustav@distillintelligence.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "gustav@distillintelligence.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Christina Hertzler",
+      "role": "VP of Practice",
+      "linkedin": "https://www.linkedin.com/in/christina-hertzler-94b02037a",
+      "domain": "gartner.com",
+      "email_hint": "christina.hertzler@gartner.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "christina.hertzler@gartner.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Carl Erickson",
+      "role": "Executive Partner",
+      "linkedin": "https://www.linkedin.com/in/carlciso",
+      "domain": "gartner.com",
+      "email_hint": "carl.erickson@gartner.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "carl.erickson@gartner.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Michael Spencer",
+      "role": "Founder, Newsletter operator, A.I. Writer ...",
+      "linkedin": "https://tw.linkedin.com/in/michaelkspencer",
+      "domain": "ai-supremacy.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "michael.spencer@ai-supremacy.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Adam Lui",
+      "role": "Founder/CEO, KudoAI",
+      "linkedin": "https://www.linkedin.com/in/adamlui",
+      "domain": "ai-supremacy.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "adam.lui@ai-supremacy.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Chris Fitkin",
+      "role": "CTO",
+      "linkedin": null,
+      "domain": "metacto.com",
+      "email_hint": "chris@metacto.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "chris@metacto.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Aron Kantor",
+      "role": "Founder",
+      "linkedin": null,
+      "domain": "thebusinessdive.com",
+      "email_hint": "aronkantor@thebusinessdive.com",
+      "confidence": 73,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "aronkantor@thebusinessdive.com",
+      "email_confidence": 73,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    }
+  ],
+  "sendResults": [
+    {
+      "lead": "Gustav Fridell",
+      "email": "gustav@distillintelligence.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Christina Hertzler",
+      "email": "christina.hertzler@gartner.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Carl Erickson",
+      "email": "carl.erickson@gartner.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Michael Spencer",
+      "email": "michael.spencer@ai-supremacy.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Adam Lui",
+      "email": "adam.lui@ai-supremacy.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Chris Fitkin",
+      "email": "chris@metacto.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Aron Kantor",
+      "email": "aronkantor@thebusinessdive.com",
+      "status": "dry_run"
+    }
+  ],
+  "finished_at": "2026-06-06T20:33:24.415849"
+}

@@ -1,0 +1,220 @@
+{
+  "seed": "tesla.com",
+  "companies": [
+    {
+      "name": "Best Tesla Alternatives in 2026",
+      "domain": "cars.usnews.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "What Are Tesla's (TSLA) Main Competitors",
+      "domain": "investopedia.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Best Tesla Alternatives of 2026",
+      "domain": "sherpaautotransport.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top Tesla Competitors & Lookalikes",
+      "domain": "markets.apistemic.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Best Tesla Model 3 Alternatives 2026: To",
+      "domain": "electriccarscheme.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Alex Vetter",
+      "role": "Former Director and CEO, Cars.com",
+      "linkedin": "https://www.linkedin.com/in/alexvetter",
+      "domain": "cars.usnews.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Daniel Harman",
+      "role": "CEO @ Cars & Bids",
+      "linkedin": "https://www.linkedin.com/in/harmandan",
+      "domain": "cars.usnews.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Anna Attkisson",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/annaattkisson",
+      "domain": "investopedia.com",
+      "email_hint": "aattkisson@investopedia.com",
+      "confidence": 67,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Tim DeMille",
+      "role": "Vice President of Sales",
+      "linkedin": "https://www.linkedin.com/in/tim-demille-bbab1817",
+      "domain": "sherpaautotransport.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Neel Patel",
+      "role": "Founder and CEO, Elk Capital Markets",
+      "linkedin": "https://www.linkedin.com/in/neel-patel-28606428",
+      "domain": "markets.apistemic.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Ryan Ritter",
+      "role": "President and CEO | Town & Country Markets ...",
+      "linkedin": "https://www.linkedin.com/in/ryan-ritter-87163711",
+      "domain": "markets.apistemic.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Alex Ramsay",
+      "role": "Chief Commercial Officer",
+      "linkedin": "https://www.linkedin.com/in/acjramsay",
+      "domain": "electriccarscheme.com",
+      "email_hint": "alex.ramsay@electriccarscheme.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Thom Groot",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/thomgroot",
+      "domain": "electriccarscheme.com",
+      "email_hint": "thom.groot@electriccarscheme.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    }
+  ],
+  "resolved": [
+    {
+      "name": "Alex Vetter",
+      "role": "Former Director and CEO, Cars.com",
+      "linkedin": "https://www.linkedin.com/in/alexvetter",
+      "domain": "cars.usnews.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "alex.vetter@cars.usnews.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Daniel Harman",
+      "role": "CEO @ Cars & Bids",
+      "linkedin": "https://www.linkedin.com/in/harmandan",
+      "domain": "cars.usnews.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "daniel.harman@cars.usnews.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Anna Attkisson",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/annaattkisson",
+      "domain": "investopedia.com",
+      "email_hint": "aattkisson@investopedia.com",
+      "confidence": 67,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "aattkisson@investopedia.com",
+      "email_confidence": 67,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Tim DeMille",
+      "role": "Vice President of Sales",
+      "linkedin": "https://www.linkedin.com/in/tim-demille-bbab1817",
+      "domain": "sherpaautotransport.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "tdemille@sherpaautotransport.com",
+      "email_confidence": 81,
+      "email_verified": true,
+      "email_source": "hunter_finder",
+      "mx_valid": true
+    },
+    {
+      "name": "Neel Patel",
+      "role": "Founder and CEO, Elk Capital Markets",
+      "linkedin": "https://www.linkedin.com/in/neel-patel-28606428",
+      "domain": "markets.apistemic.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "neel.patel@markets.apistemic.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Ryan Ritter",
+      "role": "President and CEO | Town & Country Markets ...",
+      "linkedin": "https://www.linkedin.com/in/ryan-ritter-87163711",
+      "domain": "markets.apistemic.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "ryan.ritter@markets.apistemic.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Alex Ramsay",
+      "role": "Chief Commercial Officer",
+      "linkedin": "https://www.linkedin.com/in/acjramsay",
+      "domain": "electriccarscheme.com",
+      "email_hint": "alex.ramsay@electriccarscheme.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "alex.ramsay@electriccarscheme.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Thom Groot",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/thomgroot",
+      "domain": "electriccarscheme.com",
+      "email_hint": "thom.groot@electriccarscheme.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "thom.groot@electriccarscheme.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    }
+  ],
+  "finished_at": "2026-06-07T20:42:57.190584"
+}

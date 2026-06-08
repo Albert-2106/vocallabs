@@ -1,0 +1,274 @@
+{
+  "seed": "amazon.com",
+  "companies": [
+    {
+      "name": "15 Biggest Amazon Competitors Sellers Sh",
+      "domain": "goaura.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Here Are The Top Amazon Competitors From",
+      "domain": "sellersnap.io",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top 12 Amazon Competitors and How to Bea",
+      "domain": "shopify.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top 10 Amazon Competitors in the US",
+      "domain": "sellerapp.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Amazon Alternatives: 21 Places to Shop O",
+      "domain": "rollingstone.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Artem Martynyuk",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/artemmartyn",
+      "domain": "goaura.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Alex Sroussi",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/alexsroussi",
+      "domain": "sellersnap.io",
+      "email_hint": "alex@sellersnap.io",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Yuval Kaufman",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/yuvalkaufman",
+      "domain": "sellersnap.io",
+      "email_hint": "yuval@sellersnap.io",
+      "confidence": 96,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Matthew Ruban",
+      "role": "Director of Finance",
+      "linkedin": "https://www.linkedin.com/in/matthew-ruban-cfa-b0a1176",
+      "domain": "shopify.com",
+      "email_hint": "matthew.ruban@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Doru Pirvu",
+      "role": "Director of Engineering",
+      "linkedin": "https://www.linkedin.com/in/doru-pirvu",
+      "domain": "shopify.com",
+      "email_hint": "doru.pirvu@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Nithin Mentreddy",
+      "role": "Director- E-Comm Customer Success",
+      "linkedin": "https://in.linkedin.com/in/mentreddy",
+      "domain": "sellerapp.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Sophie Lobl",
+      "role": "Senior Vice President",
+      "linkedin": "https://www.linkedin.com/in/sophie-lobl-48691a2aa",
+      "domain": "rollingstone.com",
+      "email_hint": "slobl@rollingstone.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Meyako Hughes",
+      "role": "Director of Brand Partnerships",
+      "linkedin": "https://www.linkedin.com/in/meyako-n-hughes-6367a19",
+      "domain": "rollingstone.com",
+      "email_hint": "mhughes@rollingstone.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    }
+  ],
+  "resolved": [
+    {
+      "name": "Artem Martynyuk",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/artemmartyn",
+      "domain": "goaura.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "artem.martynyuk@goaura.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Alex Sroussi",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/alexsroussi",
+      "domain": "sellersnap.io",
+      "email_hint": "alex@sellersnap.io",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "alex@sellersnap.io",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Yuval Kaufman",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/yuvalkaufman",
+      "domain": "sellersnap.io",
+      "email_hint": "yuval@sellersnap.io",
+      "confidence": 96,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "yuval@sellersnap.io",
+      "email_confidence": 96,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Matthew Ruban",
+      "role": "Director of Finance",
+      "linkedin": "https://www.linkedin.com/in/matthew-ruban-cfa-b0a1176",
+      "domain": "shopify.com",
+      "email_hint": "matthew.ruban@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "matthew.ruban@shopify.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Doru Pirvu",
+      "role": "Director of Engineering",
+      "linkedin": "https://www.linkedin.com/in/doru-pirvu",
+      "domain": "shopify.com",
+      "email_hint": "doru.pirvu@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "doru.pirvu@shopify.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Nithin Mentreddy",
+      "role": "Director- E-Comm Customer Success",
+      "linkedin": "https://in.linkedin.com/in/mentreddy",
+      "domain": "sellerapp.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "nithin.m@sellerapp.com",
+      "email_confidence": 83,
+      "email_verified": true,
+      "email_source": "hunter_finder",
+      "mx_valid": true
+    },
+    {
+      "name": "Sophie Lobl",
+      "role": "Senior Vice President",
+      "linkedin": "https://www.linkedin.com/in/sophie-lobl-48691a2aa",
+      "domain": "rollingstone.com",
+      "email_hint": "slobl@rollingstone.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "slobl@rollingstone.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Meyako Hughes",
+      "role": "Director of Brand Partnerships",
+      "linkedin": "https://www.linkedin.com/in/meyako-n-hughes-6367a19",
+      "domain": "rollingstone.com",
+      "email_hint": "mhughes@rollingstone.com",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "mhughes@rollingstone.com",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    }
+  ],
+  "sendResults": [
+    {
+      "lead": "Artem Martynyuk",
+      "email": "artem.martynyuk@goaura.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Alex Sroussi",
+      "email": "alex@sellersnap.io",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Yuval Kaufman",
+      "email": "yuval@sellersnap.io",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Matthew Ruban",
+      "email": "matthew.ruban@shopify.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Doru Pirvu",
+      "email": "doru.pirvu@shopify.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Nithin Mentreddy",
+      "email": "nithin.m@sellerapp.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Sophie Lobl",
+      "email": "slobl@rollingstone.com",
+      "status": "dry_run"
+    },
+    {
+      "lead": "Meyako Hughes",
+      "email": "mhughes@rollingstone.com",
+      "status": "dry_run"
+    }
+  ],
+  "finished_at": "2026-06-06T21:13:38.318756"
+}

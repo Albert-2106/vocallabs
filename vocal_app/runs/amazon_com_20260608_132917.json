@@ -1,0 +1,211 @@
+{
+  "seed": "amazon.com",
+  "companies": [
+    {
+      "name": "15 Biggest Amazon Competitors Sellers Sh",
+      "domain": "goaura.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Top 12 Amazon Competitors and How to Bea",
+      "domain": "shopify.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Here Are The Top Amazon Competitors From",
+      "domain": "sellersnap.io",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "15 Ethical Shopping Alternatives To Amaz",
+      "domain": "thegoodtrade.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    },
+    {
+      "name": "Who Are Amazon's (AMZN) Main Competitors",
+      "domain": "investopedia.com",
+      "industry": "Technology",
+      "source": "serpapi"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Artem Martynyuk",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/artemmartyn",
+      "domain": "goaura.com",
+      "source": "google_linkedin",
+      "industry": "Technology"
+    },
+    {
+      "name": "Matthew Ruban",
+      "role": "Director of Finance",
+      "linkedin": "https://www.linkedin.com/in/matthew-ruban-cfa-b0a1176",
+      "domain": "shopify.com",
+      "email_hint": "matthew.ruban@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Doru Pirvu",
+      "role": "Director of Engineering",
+      "linkedin": "https://www.linkedin.com/in/doru-pirvu",
+      "domain": "shopify.com",
+      "email_hint": "doru.pirvu@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Alex Sroussi",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/alexsroussi",
+      "domain": "sellersnap.io",
+      "email_hint": "alex@sellersnap.io",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Yuval Kaufman",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/yuvalkaufman",
+      "domain": "sellersnap.io",
+      "email_hint": "yuval@sellersnap.io",
+      "confidence": 96,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Emily McGowan",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/emily-mcgowan-2527b530",
+      "domain": "thegoodtrade.com",
+      "email_hint": "emily@thegoodtrade.com",
+      "confidence": 98,
+      "source": "hunter",
+      "industry": "Technology"
+    },
+    {
+      "name": "Anna Attkisson",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/annaattkisson",
+      "domain": "investopedia.com",
+      "email_hint": "aattkisson@investopedia.com",
+      "confidence": 67,
+      "source": "hunter",
+      "industry": "Technology"
+    }
+  ],
+  "resolved": [
+    {
+      "name": "Artem Martynyuk",
+      "role": "CEO",
+      "linkedin": "https://www.linkedin.com/in/artemmartyn",
+      "domain": "goaura.com",
+      "source": "google_linkedin",
+      "industry": "Technology",
+      "email": "artem.martynyuk@goaura.com",
+      "email_confidence": 30,
+      "email_verified": false,
+      "email_source": "pattern_unverified",
+      "mx_valid": true
+    },
+    {
+      "name": "Matthew Ruban",
+      "role": "Director of Finance",
+      "linkedin": "https://www.linkedin.com/in/matthew-ruban-cfa-b0a1176",
+      "domain": "shopify.com",
+      "email_hint": "matthew.ruban@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "matthew.ruban@shopify.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Doru Pirvu",
+      "role": "Director of Engineering",
+      "linkedin": "https://www.linkedin.com/in/doru-pirvu",
+      "domain": "shopify.com",
+      "email_hint": "doru.pirvu@shopify.com",
+      "confidence": 85,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "doru.pirvu@shopify.com",
+      "email_confidence": 85,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Alex Sroussi",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/alexsroussi",
+      "domain": "sellersnap.io",
+      "email_hint": "alex@sellersnap.io",
+      "confidence": 99,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "alex@sellersnap.io",
+      "email_confidence": 99,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Yuval Kaufman",
+      "role": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/yuvalkaufman",
+      "domain": "sellersnap.io",
+      "email_hint": "yuval@sellersnap.io",
+      "confidence": 96,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "yuval@sellersnap.io",
+      "email_confidence": 96,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Emily McGowan",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/emily-mcgowan-2527b530",
+      "domain": "thegoodtrade.com",
+      "email_hint": "emily@thegoodtrade.com",
+      "confidence": 98,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "emily@thegoodtrade.com",
+      "email_confidence": 98,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    },
+    {
+      "name": "Anna Attkisson",
+      "role": "Editorial Director",
+      "linkedin": "https://www.linkedin.com/in/annaattkisson",
+      "domain": "investopedia.com",
+      "email_hint": "aattkisson@investopedia.com",
+      "confidence": 67,
+      "source": "hunter",
+      "industry": "Technology",
+      "email": "aattkisson@investopedia.com",
+      "email_confidence": 67,
+      "email_verified": true,
+      "email_source": "hunter_domain_search",
+      "mx_valid": true
+    }
+  ],
+  "finished_at": "2026-06-08T13:29:17.286285"
+}
